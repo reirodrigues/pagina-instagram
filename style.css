@@ -95,7 +95,7 @@ body {
   color: rgb(160, 160, 160);
 }
 
-.link-blue {
+.link-blue a {
   color: lightblue;
 }
 
@@ -134,7 +134,7 @@ body {
   background-image: url(./assets/googleplay-button.png);
 }
 
-/*====================RESPONSABILIDADE==================*/
+/*====================RESPONSIVIDADE==================*/
 
 @media (max-width: 1110px) {
   .wrapper {
